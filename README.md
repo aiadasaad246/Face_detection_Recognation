@@ -8,7 +8,7 @@ Each person should have a folder named by thier names.
 
 After that, You should run python encode_faces.py to encode all the data set. 
 
-Then you shpuld run the Final.py to run the model. 
+Then you should run the Final.py to run the model. 
 
 After Taking all the attendance. 
 You should run the Email.py to send the whole attandance.csv file to the TA.
